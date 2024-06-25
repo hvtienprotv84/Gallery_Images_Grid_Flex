@@ -1,4 +1,4 @@
-# Grid - Flex - Gallery Images
+# Gallery Images - Grid - Flex
 
 - HTML
 - CSS ( Grid và Flex )
